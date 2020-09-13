@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "module": "AMD",
+    "target": "es5",
+    "outFile": "./dist/main.js",
+    "sourceMap": false,
+    "allowJs": true,
+    "checkJs": true,
+    "removeComments": true,
+    "baseUrl": "/"
+  },
+  "compileOnSave": true,
+  "exclude": [
+    "node_modules"
+  ],
+  "include": [
+    "src/**/*"
+  ]
+}

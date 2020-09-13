@@ -1,0 +1,13 @@
+{
+  "name": "typescript_browser_amd",
+  "version": "0.0.1",
+  "description": "Typescript skeleton bundle for browser modules and requirejs",
+  "keywords": [
+    "typescript",
+    "requirejs",
+    "amd",
+    "browser"
+  ],
+  "author": "Lukas M. Beck",
+  "license": "MIT"
+}
